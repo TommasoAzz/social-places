@@ -4,3 +4,6 @@
 [submodule "server"]
 	path = server
 	url = git@github.com:riccardopreite/sistemiCA-server.git
+[submodule "dataset-generation"]
+	path = dataset-generation
+	url = git@github.com:riccardopreite/geolife_training.git
