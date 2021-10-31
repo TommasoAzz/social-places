@@ -1,0 +1,6 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:riccardopreite/sistemiCA-project.git
+[submodule "server"]
+	path = server
+	url = git@github.com:riccardopreite/sistemiCA-server.git
